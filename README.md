@@ -1,5 +1,10 @@
 # Launch
 
+## monday-0004
+- chain-id : monday-0004
+- Seed ID : 8e45335ccdeecd5fe795435d9ae38b2f8fa98441
+- Seed IP : 15.165.67.139
+
 ## monday-0003
 - chain-id : monday-0003
 - Seed ID : 747e6715cdd856958d93ad31d35ca94125260390
