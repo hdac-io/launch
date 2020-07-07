@@ -1,8 +1,8 @@
 # Launch
 
-## monday-0010
+## monday-0011
 
-- chain-id : monday-0010
+- chain-id : monday-0011
 - Seed
     - fedf0aba3dd9059a3d42dfb6ca4838a69a16cad6412d7734370233d84d1bcf06@13.124.50.97:26656
     - c5af92ef83a32821692a87d18670724e28903b5b2efbb97c666428d6a24efdbf@54.180.153.226:26656
